@@ -3,7 +3,6 @@
       <img :src="imageTitle" alt="Token Image" class="header-image">
       <p style="font-weight: bold; font-size: 1.5em;"> It is almost 14th of February again. You are alone again... But solana loves you ❤️</p>
       <img :src="imagePath" alt="Title Image" class="header-image">
-      <p style="font-weight: bold; color:black; font-size: 2em;"> CA: 2YXsqzb5WiQkMtmhRKC79bCbqsZB3g4RW3mz25srMvnM </p>
     </div>
   </template>
   
