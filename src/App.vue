@@ -1,8 +1,5 @@
 <template>
   <div id="app">
-    <HeaderSection/>
-  
-    <TokenSection />
     <TokenomicsSection />
     </div>
 </template>
@@ -16,9 +13,6 @@ import HeaderSection from './components/HeaderSection.vue';
 export default {
   name: 'App',
   components: {
-    HeaderSection,
-
-    TokenSection,
     TokenomicsSection,
   }
 }
